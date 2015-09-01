@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  font-family: "Helvetica";
+}
+
+#header {
+  background-color: white;
+  height: 180px;
+  background-image: url(http://i.imgur.com/75YHnuu.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+h1 {
+  font-size: 40px;
+  color: #3C474C;
+}
+
+/*#subheader {
+  background-color: white;
+  height: 80px;
+  background-image: url(http://drivefast.org/wp/wp-content/uploads/2014/01/Header.png);
+  background-size: cover;
+  background-position: -290px;
+}*/
+
+#container {
+  background-color: ;
+  clear: both;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#left_sidebar {
+  background-color: ;
+  float: left;
+  width: 33%;
+}
+
+#left_sidebar h2 {
+ font-family: "Open Sans", sans-serif;
+ color: #757568 ;
+ text-transform: uppercase;
+ font-size: 18px;
+ margin-top: 30px;
+}
+#left_sidebar h3 {
+ font-family: "Open Sans", sans-serif;
+ font-size: 14px;
+ line-height: 20px;
+ color: #AAA;
+}
+
+#left_sidebar h3 {
+
+}
+
+#left_sidebar img {
+  border-radius: 50%;
+  width: 100px;
+  margin-top: -50px;
+  margin-right: 50px;
+  border: solid white 5px;
+}
+
+#content {
+  background-color: ;
+  float: left;
+  width: 66%;
+}
+
+h4 {
+  font-weight: normal;
+  color: #DDD;
+}
+
+h3 {
+  font-size: 16px;
+  font-style: italic;
+  font-weight: normal;
+  color: #3C474C;
+}
+
+#content img {
+  width: 90%;
+  text-align: left;
+}
+
+h5 {
+ border: solid #CCC 1px;
+ border-radius: 4px;
+ height: 20px;
+ width: 150px;
+ font-size: 10px;
+ padding-left: 5px;
+ color: #DDD;
+ font-weight: normal;
+}
+
+h5:hover {
+  cursor: text;
+  color: white;
+}
+
+#footer {
+  background-color: black;
+  height: 150px;
+  clear: both;
+}
